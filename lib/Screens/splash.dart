@@ -29,7 +29,6 @@ class _SplashscreenState extends State<Splashscreen> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            // Newzify Text in the center
             Text(
               'Newzify',
               style: TextStyle(
