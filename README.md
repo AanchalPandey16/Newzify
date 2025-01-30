@@ -20,7 +20,7 @@ Newzify is a Flutter-based news app that fetches real-time data from multiple AP
 
 - Flutter 
 - Dart SDK
-- Android Studio or Visual Studio Code (with Flutter plugin)
+- Visual studio
 
 ### Steps
 
